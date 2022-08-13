@@ -17,12 +17,12 @@ The objective of this assignment consists of writing a C/C++ program that transl
 	
 ## References
 
-* https://www.geeksforgeeks.org/posix-shared-memory-api/
-* https://linux.die.net/man/2/ftruncate
-* https://man7.org/linux/man-pages/man2/mmap.2.html
-* https://docs.oracle.com/cd/E19683-01/806-6867/6jfpgdcnj/index.html
-* https://linux.die.net/man/3/pthread_mutex_init
-* https://pubs.opengroup.org/onlinepubs/007908799/xsh/pthread_mutex_lock.html
+* https://www.tutorialspoint.com/c_standard_library/c_function_fopen.htm
+* https://www.tutorialspoint.com/c_standard_library/c_function_fgets.htm
+* https://www.tutorialspoint.com/c_standard_library/c_function_fseek.htm
+* https://www.tutorialspoint.com/c_standard_library/c_function_fread.htm
+* https://www.geeksforgeeks.org/left-shift-right-shift-operators-c-cpp/
+* https://www.clivemaxfield.com/coolbeans/masking-and-the-c-c-bitwise-operators/
 	
 ## Known Errors
 
