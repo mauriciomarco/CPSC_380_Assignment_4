@@ -6,5 +6,5 @@ unsigned get_page(unsigned address) { /* function to get page from logical addre
 }
 
 unsigned get_offset(unsigned address) { /* function to get offset from logical address */ 
-	return address&MASK; /* mask the last 8 bits
+	return address&MASK; /* mask the last 8 bits */
 }
